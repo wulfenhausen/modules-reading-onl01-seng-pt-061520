@@ -1,6 +1,3 @@
-require_relative './.rb'
-require_relative './class_methods_module.rb'
-
 module FancyDance
   module InstanceMethods
     
